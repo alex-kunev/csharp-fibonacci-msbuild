@@ -1,14 +1,13 @@
-Hello Sample
+Hello Fibonnaci
 ================
 
-This sample is part of the [step-by-step tutorial](https://docs.microsoft.com/dotnet/core/tutorials/using-with-xplat-cli)
-for creating .NET Core Console Applications. Please see that topic for detailed steps on the code
-for this sample.
+This sample is a sample app, created from a [step-by-step tutorial](https://docs.microsoft.com/dotnet/core/tutorials/using-with-xplat-cli)
+for creating .NET Core Console Applications. 
 
 Key Features
 ------------
 
-This is the basic Hello World sample. It demonstrates the basics of the environment.
+The app runs a Fiboncci sequence, and output the next Fibonacci number, based on the lagic in the main Program.cs file.
 
 Build and Run
 -------------
